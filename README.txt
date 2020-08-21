@@ -1,1 +1,1 @@
-1
+It is my notes to better understanding of machine learning
